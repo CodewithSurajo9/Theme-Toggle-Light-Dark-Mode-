@@ -17,3 +17,7 @@ The chosen theme is stored in localStorage, so the preference is saved across se
 - 💾 Saves user choice in localStorage (persistent across refreshes)
 
 - 🔄 Smooth transition between themes
+
+---
+
+📂 Project Structure
