@@ -6,7 +6,7 @@ The chosen theme is stored in localStorage, so the preference is saved across se
 
 ---
 
-# ✨ Features
+## ✨ Features
 
 - 🌍 Detects system theme preference (prefers-color-scheme)
 
@@ -20,7 +20,25 @@ The chosen theme is stored in localStorage, so the preference is saved across se
 
 ---
 
-📂 Project Structure
+## 🚀 How to Use
+
+- Clone or download this repository
+
+- Open index.html in your browser
+
+- Click the Toggle Theme button to switch themes
+
+- Refresh the page — your choice is remembered! 🎉
+
+## 🛠️ Technologies Used
+
+- HTML5 – Structure
+
+- CSS3 – Styling with CSS Variables
+
+- JavaScript (ES6+) – Theme toggle & storage
+
+## 📂 Project Structure
 
 - ├── index.html   # Main HTML structure with custom switch
 - ├── style.css    # Theme styles + toggle switch design
