@@ -43,3 +43,7 @@ The chosen theme is stored in localStorage, so the preference is saved across se
 - ├── index.html   # Main HTML structure with custom switch
 - ├── style.css    # Theme styles + toggle switch design
 - └── script.js    # Logic for theme detection, toggle, and persistence
+
+
+
+contributer : Soura Roy 
